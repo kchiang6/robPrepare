@@ -18,3 +18,6 @@ Codesignal
 
 boolean deque
 https://techinpieces.blog.csdn.net/article/details/108947351
+
+從這個準備起吧!
+https://www.1point3acres.com/bbs/thread-832021-1-1.html
